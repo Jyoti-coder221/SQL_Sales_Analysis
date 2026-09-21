@@ -37,7 +37,7 @@ Columns:
 - Average order value: **12,100.53**
 
 ## Files
-- `sales_analysis.sql` — SQL queries
+- `Task_2_DS` — SQL queries
 - `orders.csv` — dataset
 
 ## How to Run
